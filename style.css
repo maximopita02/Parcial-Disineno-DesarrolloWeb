@@ -75,7 +75,6 @@ footer{
 }
 
 @media (max-width: 480px) { 
- 
     main{
         flex-direction: column;
         padding: 10px;
